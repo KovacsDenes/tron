@@ -40,7 +40,7 @@ iv = setInterval(() => {
         if (points2 == 5)
         {
             clearInterval(iv)
-            alert("VÉGEREDMÉNY: Piros Nyert")
+            alert("VÉGEREDMÉNY: Lila Nyert")
             window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
         }
         reset_game();
